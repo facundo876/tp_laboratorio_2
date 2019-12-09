@@ -1,0 +1,6 @@
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb

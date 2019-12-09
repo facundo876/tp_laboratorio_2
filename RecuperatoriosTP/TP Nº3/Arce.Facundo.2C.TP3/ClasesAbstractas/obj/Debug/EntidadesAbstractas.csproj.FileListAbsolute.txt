@@ -1,0 +1,18 @@
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\ClasesAbstractas\bin\Debug\Excepciones.dll
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
+C:\Users\Delta\Desktop\Arce.Facundo.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\Delta\Desktop\Arce.Facundo.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Delta\Desktop\Arce.Facundo.2C.TP3\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\Delta\Desktop\Arce.Facundo.2C.TP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\Delta\Desktop\Arce.Facundo.2C.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\Delta\Desktop\Arce.Facundo.2C.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Delta\Desktop\Arce.Facundo.2C.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\Delta\Desktop\Arce.Facundo.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\Delta\Desktop\Arce.Facundo.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb

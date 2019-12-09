@@ -1,0 +1,18 @@
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\Archivos\bin\Debug\Archivos.dll
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\Archivos\obj\Debug\Archivos.dll
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\Archivos\obj\Debug\Archivos.pdb
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+E:\Programacion II\TP Nº3\Arce.Facundo.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Delta\Desktop\Arce.Facundo.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Delta\Desktop\Arce.Facundo.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Delta\Desktop\Arce.Facundo.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Delta\Desktop\Arce.Facundo.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Delta\Desktop\Arce.Facundo.2C.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Delta\Desktop\Arce.Facundo.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Delta\Desktop\Arce.Facundo.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Delta\Desktop\Arce.Facundo.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Delta\Desktop\Arce.Facundo.2C.TP3\Archivos\obj\Debug\Archivos.pdb
